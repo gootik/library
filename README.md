@@ -5,3 +5,4 @@
 
 # TO-READ
 * https://medium.com/an-idea-for-you/how-to-get-better-at-one-thing-in-one-month-694555ea1777
+* https://blog.ycombinator.com/ycs-essential-startup-advice/
