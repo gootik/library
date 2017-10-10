@@ -8,3 +8,6 @@
 * https://blog.ycombinator.com/ycs-essential-startup-advice/
 * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf
 * http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf
+* https://www.pilosa.com/blog/range-encoded-bitmaps/
+* http://druid.io/blog/2012/09/21/druid-bitmap-compression.html
+* http://static.druid.io/docs/druid.pdf
