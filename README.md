@@ -7,3 +7,4 @@
 * https://medium.com/an-idea-for-you/how-to-get-better-at-one-thing-in-one-month-694555ea1777
 * https://blog.ycombinator.com/ycs-essential-startup-advice/
 * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf
+* http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf
