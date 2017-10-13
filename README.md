@@ -6,7 +6,7 @@
 
 # BOOKS
 * https://www.amazon.com/Megatech-Technology-2050-Daniel-Franklin/dp/1781254621
-* https://www.amazon.com/Art-War-Essential-Translation-Classics/dp/0143105752/ref=sr_1_1?s=books&ie=UTF8&qid=1507894712&sr=1-1&keywords=the+art+of+war+penguin
+* https://www.amazon.com/Art-War-Essential-Translation-Classics/dp/0143105752
 * 
 
 # TO-READ
