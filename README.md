@@ -17,6 +17,8 @@
 * https://www.pilosa.com/blog/range-encoded-bitmaps/
 * http://druid.io/blog/2012/09/21/druid-bitmap-compression.html
 * http://static.druid.io/docs/druid.pdf
+* http://www.cs.princeton.edu/~wlloyd/papers/f4-osdi14.pdf
+
 
 ## BOOKS
 * -
