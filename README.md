@@ -5,6 +5,9 @@
 * https://medium.com/an-idea-for-you/how-to-get-better-at-one-thing-in-one-month-694555ea1777
 * https://blog.ycombinator.com/ycs-essential-startup-advice/
 
+# BLOG POSTS
+* https://lewissbaker.github.io/2017/09/25/coroutine-theory
+
 # BOOKS
 * https://www.amazon.com/Megatech-Technology-2050-Daniel-Franklin/dp/1781254621
 * https://www.amazon.com/Art-War-Essential-Translation-Classics/dp/0143105752
