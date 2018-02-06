@@ -21,7 +21,7 @@
 * http://druid.io/blog/2012/09/21/druid-bitmap-compression.html
 * http://static.druid.io/docs/druid.pdf
 * http://www.cs.princeton.edu/~wlloyd/papers/f4-osdi14.pdf
-* [Twitter Heron](http://delivery.acm.org/10.1145/2750000/2742788/p239-kulkarni.pdf?ip=8.25.197.67&id=2742788&acc=TRUSTED&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EE47D41B086F0CDA3&__acm__=1517961291_ddd089fae584f5b3bb2111a509167e1d)
+* [Twitter Heron](http://delivery.acm.org/10.1145/2750000/2742788/p239-kulkarni.pdf)
 
 ## BOOKS
 
