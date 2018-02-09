@@ -22,6 +22,6 @@
 * http://static.druid.io/docs/druid.pdf
 * http://www.cs.princeton.edu/~wlloyd/papers/f4-osdi14.pdf
 * [Twitter Heron](http://delivery.acm.org/10.1145/2750000/2742788/p239-kulkarni.pdf)
-
+* [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 ## BOOKS
 
