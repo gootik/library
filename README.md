@@ -9,8 +9,8 @@
 * https://lewissbaker.github.io/2017/09/25/coroutine-theory
 
 # BOOKS
-* https://www.amazon.com/Megatech-Technology-2050-Daniel-Franklin/dp/1781254621
-* https://www.amazon.com/Art-War-Essential-Translation-Classics/dp/0143105752
+* [Megatech: Technology in 2050]https://www.amazon.com/Megatech-Technology-2050-Daniel-Franklin/dp/1781254621
+* [The Art of War]https://www.amazon.com/Art-War-Essential-Translation-Classics/dp/0143105752
 * 
 
 # TO-READ
@@ -24,4 +24,6 @@
 * [Twitter Heron](http://delivery.acm.org/10.1145/2750000/2742788/p239-kulkarni.pdf)
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 ## BOOKS
+* [Algorithms to Live by](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360)
+* [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
