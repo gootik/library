@@ -30,4 +30,5 @@
 ## BOOKS
 * [Algorithms to Live by](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360)
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+* [Algorithmic Game Theory](http://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf)
 
