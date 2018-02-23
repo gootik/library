@@ -2,11 +2,11 @@
 * [Paper on Finagle](https://monkey.org/~marius/funsrv.pdf)
 * [Functional Pearl: A SQL to C Compiler in 500 Lines of Code](https://www.cs.purdue.edu/homes/rompf/papers/rompf-icfp15.pdf)
 * [Earlybird: Real-Time Search at Twitter](https://www.umiacs.umd.edu/~jimmylin/publications/Busch_etal_ICDE2012.pdf)
-* https://medium.com/an-idea-for-you/how-to-get-better-at-one-thing-in-one-month-694555ea1777
-* https://blog.ycombinator.com/ycs-essential-startup-advice/
 
 # BLOG POSTS
 * https://lewissbaker.github.io/2017/09/25/coroutine-theory
+* [How To Get Better At One Thing In One Month](https://medium.com/an-idea-for-you/how-to-get-better-at-one-thing-in-one-month-694555ea1777)
+* [YC’s Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 
 # BOOKS
 * [Megatech: Technology in 2050](https://www.amazon.com/Megatech-Technology-2050-Daniel-Franklin/dp/1781254621)
