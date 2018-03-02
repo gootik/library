@@ -31,3 +31,5 @@
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 * [Algorithmic Game Theory](http://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf)
 
+## COURSES
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
