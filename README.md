@@ -21,7 +21,7 @@
 * [f4: Facebook’s Warm BLOB Storage System](http://www.cs.princeton.edu/~wlloyd/papers/f4-osdi14.pdf)
 * [Twitter Heron](http://delivery.acm.org/10.1145/2750000/2742788/p239-kulkarni.pdf)
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
-* [A Fast, Minimal Memory, Consistent Hash Algorithm] https://arxiv.org/pdf/1406.2294.pdf
+* [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
 
 ## BLOG POSTS
 * [Using Bitmaps to Perform Range Queries](https://www.pilosa.com/blog/range-encoded-bitmaps/)
