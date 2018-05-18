@@ -23,7 +23,7 @@
 * [Scuba: Diving into Data at Facebook](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf)
 * [Druid](http://static.druid.io/docs/druid.pdf)
 * [f4: Facebook’s Warm BLOB Storage System](http://www.cs.princeton.edu/~wlloyd/papers/f4-osdi14.pdf)
-* [Twitter Heron](http://delivery.acm.org/10.1145/2750000/2742788/p239-kulkarni.pdf)
+* [Twitter Heron](https://dl.acm.org/citation.cfm?id=2742788)
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 * [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
 
