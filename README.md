@@ -19,7 +19,7 @@
 # TO-READ
 ## PAPERS
 * [Auctions and bidding: A guide for computer scientists](http://www.sci.brooklyn.cuny.edu/~parsons/projects/mech-design/publications/bluffers-final.pdf)
-* [Modern B-Tree Techniques](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf)
+* [Modern B-Tree Techniques](https://pdfs.semanticscholar.org/0b19/f413ffb5bc68b43f3bd05a97c282a7c6d6ab.pdf)
 * [Scuba: Diving into Data at Facebook](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf)
 * [Druid](http://static.druid.io/docs/druid.pdf)
 * [f4: Facebook’s Warm BLOB Storage System](http://www.cs.princeton.edu/~wlloyd/papers/f4-osdi14.pdf)
