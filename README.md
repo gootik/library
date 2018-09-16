@@ -26,6 +26,7 @@
 * [Twitter Heron](https://dl.acm.org/citation.cfm?id=2742788)
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 * [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
+* [A New Optimization Layer for Real-Time Bidding Advertising Campaigns](https://arxiv.org/abs/1808.03147)
 
 ## BLOG POSTS
 * [Using Bitmaps to Perform Range Queries](https://www.pilosa.com/blog/range-encoded-bitmaps/)
