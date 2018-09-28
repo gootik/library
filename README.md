@@ -2,6 +2,7 @@
 * [Paper on Finagle](https://monkey.org/~marius/funsrv.pdf)
 * [Functional Pearl: A SQL to C Compiler in 500 Lines of Code](https://www.cs.purdue.edu/homes/rompf/papers/rompf-icfp15.pdf)
 * [Earlybird: Real-Time Search at Twitter](https://www.umiacs.umd.edu/~jimmylin/publications/Busch_etal_ICDE2012.pdf)
+* [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
 
 # BLOG POSTS
 * [Coroutine Theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
@@ -25,7 +26,6 @@
 * [f4: Facebook’s Warm BLOB Storage System](http://www.cs.princeton.edu/~wlloyd/papers/f4-osdi14.pdf)
 * [Twitter Heron](https://dl.acm.org/citation.cfm?id=2742788)
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
-* [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
 * [A New Optimization Layer for Real-Time Bidding Advertising Campaigns](https://arxiv.org/abs/1808.03147)
 
 ## BLOG POSTS
