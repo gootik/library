@@ -3,6 +3,7 @@
 * [Functional Pearl: A SQL to C Compiler in 500 Lines of Code](https://www.cs.purdue.edu/homes/rompf/papers/rompf-icfp15.pdf)
 * [Earlybird: Real-Time Search at Twitter](https://www.umiacs.umd.edu/~jimmylin/publications/Busch_etal_ICDE2012.pdf)
 * [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
+* [Druid](http://static.druid.io/docs/druid.pdf)
 
 # BLOG POSTS
 * [Coroutine Theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
@@ -22,7 +23,6 @@
 * [Auctions and bidding: A guide for computer scientists](http://www.sci.brooklyn.cuny.edu/~parsons/projects/mech-design/publications/bluffers-final.pdf)
 * [Modern B-Tree Techniques](https://pdfs.semanticscholar.org/0b19/f413ffb5bc68b43f3bd05a97c282a7c6d6ab.pdf)
 * [Scuba: Diving into Data at Facebook](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf)
-* [Druid](http://static.druid.io/docs/druid.pdf)
 * [f4: Facebook’s Warm BLOB Storage System](http://www.cs.princeton.edu/~wlloyd/papers/f4-osdi14.pdf)
 * [Twitter Heron](https://dl.acm.org/citation.cfm?id=2742788)
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
