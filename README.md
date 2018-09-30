@@ -35,6 +35,7 @@
 ## BOOKS
 * [Algorithmic Game Theory](http://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [Open Music THeory](http://openmusictheory.com/)
 
 ## COURSES
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
