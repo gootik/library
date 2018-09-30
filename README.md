@@ -1,20 +1,21 @@
-# PAPERS
+# HISTORY
+## PAPERS
 * [Paper on Finagle](https://monkey.org/~marius/funsrv.pdf)
 * [Functional Pearl: A SQL to C Compiler in 500 Lines of Code](https://www.cs.purdue.edu/homes/rompf/papers/rompf-icfp15.pdf)
 * [Earlybird: Real-Time Search at Twitter](https://www.umiacs.umd.edu/~jimmylin/publications/Busch_etal_ICDE2012.pdf)
 * [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
 * [Druid](http://static.druid.io/docs/druid.pdf)
 
-# BLOG POSTS
+## BLOG POSTS
 * [Coroutine Theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
 * [How To Get Better At One Thing In One Month](https://medium.com/an-idea-for-you/how-to-get-better-at-one-thing-in-one-month-694555ea1777)
 * [YC’s Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 
-# BOOKS
+## BOOKS
 * [Megatech: Technology in 2050](https://www.amazon.com/Megatech-Technology-2050-Daniel-Franklin/dp/1781254621)
 * [The Art of War](https://www.amazon.com/Art-War-Essential-Translation-Classics/dp/0143105752)
 
-# READING
+# CURRENTLY READING
 * [Algorithms to Live by](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360)
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
