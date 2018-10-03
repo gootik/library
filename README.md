@@ -10,6 +10,7 @@
 * [Coroutine Theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
 * [How To Get Better At One Thing In One Month](https://medium.com/an-idea-for-you/how-to-get-better-at-one-thing-in-one-month-694555ea1777)
 * [YC’s Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
+* [Data Compression in Druid](http://druid.io/blog/2012/09/21/druid-bitmap-compression.html)
 
 ## BOOKS
 * [Megatech: Technology in 2050](https://www.amazon.com/Megatech-Technology-2050-Daniel-Franklin/dp/1781254621)
@@ -32,7 +33,7 @@
 
 ## BLOG POSTS
 * [Using Bitmaps to Perform Range Queries](https://www.pilosa.com/blog/range-encoded-bitmaps/)
-* [Data Compression in Druid](http://druid.io/blog/2012/09/21/druid-bitmap-compression.html)
+
 
 ## BOOKS
 * [Algorithmic Game Theory](http://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf)
