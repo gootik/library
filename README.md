@@ -33,6 +33,7 @@
 
 ## BLOG POSTS
 * [Using Bitmaps to Perform Range Queries](https://www.pilosa.com/blog/range-encoded-bitmaps/)
+* [A Complete Guide to K-Nearest-Neighbors with Applications in Python and R](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 
 
 ## BOOKS
