@@ -19,7 +19,7 @@
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
 # CURRENTLY READING
-
+* [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/)
 
 # TO-READ
 ## PAPERS
@@ -30,6 +30,7 @@
 * [Twitter Heron](https://dl.acm.org/citation.cfm?id=2742788)
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 * [A New Optimization Layer for Real-Time Bidding Advertising Campaigns](https://arxiv.org/abs/1808.03147)
+* [Leapfrog Triejoin](http://openproceedings.org/ICDT/2014/paper_13.pdf)
 
 ## BLOG POSTS
 * [Using Bitmaps to Perform Range Queries](https://www.pilosa.com/blog/range-encoded-bitmaps/)
