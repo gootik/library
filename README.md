@@ -5,6 +5,7 @@
 * [Earlybird: Real-Time Search at Twitter](https://www.umiacs.umd.edu/~jimmylin/publications/Busch_etal_ICDE2012.pdf)
 * [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
 * [Druid](http://static.druid.io/docs/druid.pdf)
+* [Scalable Component Abstractions](http://lampwww.epfl.ch/%7Eodersky/papers/ScalableComponent.pdf)
 
 ## BLOG POSTS
 * [Coroutine Theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
