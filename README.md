@@ -33,6 +33,7 @@
 * [A New Optimization Layer for Real-Time Bidding Advertising Campaigns](https://arxiv.org/abs/1808.03147)
 * [Leapfrog Triejoin](http://openproceedings.org/ICDT/2014/paper_13.pdf)
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/linkedin-pacing.pdf)
+* [Making reliable distributed systems in the presence of sodware errors](http://erlang.org/download/armstrong_thesis_2003.pdf)
 
 ## BLOG POSTS
 * [Using Bitmaps to Perform Range Queries](https://www.pilosa.com/blog/range-encoded-bitmaps/)
