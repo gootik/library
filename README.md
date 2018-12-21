@@ -1,6 +1,6 @@
 # HISTORY
 ## PAPERS
-* [Paper on Finagle](https://monkey.org/~marius/funsrv.pdf)
+* [Your Server as a Function (Paper on Finagle)](https://monkey.org/~marius/funsrv.pdf)
 * [Functional Pearl: A SQL to C Compiler in 500 Lines of Code](https://www.cs.purdue.edu/homes/rompf/papers/rompf-icfp15.pdf)
 * [Earlybird: Real-Time Search at Twitter](https://www.umiacs.umd.edu/~jimmylin/publications/Busch_etal_ICDE2012.pdf)
 * [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
