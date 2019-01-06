@@ -17,6 +17,7 @@
 * [How To Get Better At One Thing In One Month](https://medium.com/an-idea-for-you/how-to-get-better-at-one-thing-in-one-month-694555ea1777)
 * [YC’s Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * [Data Compression in Druid](http://druid.io/blog/2012/09/21/druid-bitmap-compression.html)
+* [20 Questions To Ask Before Joining A Startup](https://hharnisc.github.io/2018/11/25/twenty-questions-to-ask-before-joining-a-startup.html)
 
 ### BOOKS
 * [Megatech: Technology in 2050](https://www.amazon.com/Megatech-Technology-2050-Daniel-Franklin/dp/1781254621)
