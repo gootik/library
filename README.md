@@ -23,6 +23,7 @@
 
 # CURRENTLY READING
 * [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/)
+* [Sapiens: A Brief History of Humankind ](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A)
 
 # TO-READ
 ## PAPERS
