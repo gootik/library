@@ -1,6 +1,5 @@
 # CURRENTLY READING
-* [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/)
-* [Sapiens: A Brief History of Humankind ](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A)
+* 
 
 # HISTORY
 ### PAPERS
@@ -25,6 +24,8 @@
 * [Algorithms to Live by](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360)
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 * [Game Programming Patterns](https://www.amazon.com/Game-Programming-Patterns-Robert-Nystrom/dp/0990582906)
+* [Sapiens: A Brief History of Humankind ](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A)
+* [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/)
 
 # TO-READ
 ### PAPERS
