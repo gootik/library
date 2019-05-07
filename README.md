@@ -42,7 +42,8 @@
 ### BLOG POSTS
 * [Using Bitmaps to Perform Range Queries](https://www.pilosa.com/blog/range-encoded-bitmaps/)
 * [A Complete Guide to K-Nearest-Neighbors with Applications in Python and R](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
-
+* [Lessons learned from creating a rich-text editor with real-time collaboration](https://ckeditor.com/blog/Lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration/)
+* 
 
 ### BOOKS
 * [Algorithmic Game Theory](http://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf)
