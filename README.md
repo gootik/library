@@ -18,6 +18,7 @@
 * [YC’s Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * [Data Compression in Druid](http://druid.io/blog/2012/09/21/druid-bitmap-compression.html)
 * [20 Questions To Ask Before Joining A Startup](https://hharnisc.github.io/2018/11/25/twenty-questions-to-ask-before-joining-a-startup.html)
+* [The Complete Guide to Deep Work](https://doist.com/blog/complete-guide-to-deep-work/)
 
 ### BOOKS
 * [Megatech: Technology in 2050](https://www.amazon.com/Megatech-Technology-2050-Daniel-Franklin/dp/1781254621)
