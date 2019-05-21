@@ -1,5 +1,6 @@
 # CURRENTLY READING
-* 
+* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+* [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
 
 # HISTORY
 ### PAPERS
