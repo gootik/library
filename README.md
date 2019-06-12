@@ -42,6 +42,7 @@
 * [A New Optimization Layer for Real-Time Bidding Advertising Campaigns](https://arxiv.org/abs/1808.03147)
 * [Leapfrog Triejoin](http://openproceedings.org/ICDT/2014/paper_13.pdf)
 * [Making reliable distributed systems in the presence of sodware errors](http://erlang.org/download/armstrong_thesis_2003.pdf)
+* [Zanzibar: Google’s Consistent, Global Authorization System](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0749e1e54ded70f54e1f646cd440a5a523c69164.pdf)
 
 ### BLOG POSTS
 * [Using Bitmaps to Perform Range Queries](https://www.pilosa.com/blog/range-encoded-bitmaps/) 
