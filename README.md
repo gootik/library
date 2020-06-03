@@ -1,6 +1,8 @@
 # CURRENTLY READING
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
-* [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
+* [BPF Performance Tools](http://www.brendangregg.com/bpf-performance-tools-book.html)
+* [The truthful art](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075)
+* [Fooled by Randomness](https://www.amazon.com/gp/product/B001FA0W5W/ref=dbs_a_def_rwt_bibl_vppi_i3)
 
 # HISTORY
 ### PAPERS
@@ -31,6 +33,7 @@
 * [Game Programming Patterns](https://www.amazon.com/Game-Programming-Patterns-Robert-Nystrom/dp/0990582906)
 * [Sapiens: A Brief History of Humankind ](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A)
 * [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/)
+* [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
 
 # TO-READ
 ### PAPERS
