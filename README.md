@@ -1,8 +1,9 @@
 # CURRENTLY READING
-* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+
 * [BPF Performance Tools](http://www.brendangregg.com/bpf-performance-tools-book.html)
 * [The truthful art](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075)
-* [Fooled by Randomness](https://www.amazon.com/gp/product/B001FA0W5W/ref=dbs_a_def_rwt_bibl_vppi_i3)
+* [Growth From Microorganisms to Megacities](https://www.amazon.com/Growth-Microorganisms-Megacities-MIT-Press/dp/0262042835)
+* [The Making of Prince of Persia](https://www.amazon.com/Making-Prince-Persia-Journals-1985-1993-Illustrated-dp-0578627310/dp/0578627310)
 
 # HISTORY
 ### PAPERS
@@ -26,6 +27,8 @@
 * [Lessons learned from creating a rich-text editor with real-time collaboration](https://ckeditor.com/blog/Lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration/)
 
 ### BOOKS
+* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+* [Fooled by Randomness](https://www.amazon.com/gp/product/B001FA0W5W/ref=dbs_a_def_rwt_bibl_vppi_i3)
 * [Megatech: Technology in 2050](https://www.amazon.com/Megatech-Technology-2050-Daniel-Franklin/dp/1781254621)
 * [The Art of War](https://www.amazon.com/Art-War-Essential-Translation-Classics/dp/0143105752)
 * [Algorithms to Live by](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360)
