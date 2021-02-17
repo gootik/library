@@ -1,3 +1,6 @@
+A collection of books/blog posts/papers/etc. that I 
+enjoy reading. You may find them interesting as well.
+
 # CURRENTLY READING
 
 * [Growth From Microorganisms to Megacities](https://www.amazon.com/Growth-Microorganisms-Megacities-MIT-Press/dp/0262042835)
