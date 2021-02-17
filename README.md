@@ -2,7 +2,7 @@
 
 * [Growth From Microorganisms to Megacities](https://www.amazon.com/Growth-Microorganisms-Megacities-MIT-Press/dp/0262042835)
 * [Dune](https://www.amazon.com/dp/B08B69FGSY)
-* 
+
 # LOG
 ### PAPERS
 * [Your Server as a Function (Paper on Finagle)](https://monkey.org/~marius/funsrv.pdf)
