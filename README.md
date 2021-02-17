@@ -1,11 +1,9 @@
 # CURRENTLY READING
 
-* [BPF Performance Tools](http://www.brendangregg.com/bpf-performance-tools-book.html)
-* [The truthful art](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075)
 * [Growth From Microorganisms to Megacities](https://www.amazon.com/Growth-Microorganisms-Megacities-MIT-Press/dp/0262042835)
-* [The Making of Prince of Persia](https://www.amazon.com/Making-Prince-Persia-Journals-1985-1993-Illustrated-dp-0578627310/dp/0578627310)
-
-# HISTORY
+* [Dune](https://www.amazon.com/dp/B08B69FGSY)
+* 
+# LOG
 ### PAPERS
 * [Your Server as a Function (Paper on Finagle)](https://monkey.org/~marius/funsrv.pdf)
 * [Functional Pearl: A SQL to C Compiler in 500 Lines of Code](https://www.cs.purdue.edu/homes/rompf/papers/rompf-icfp15.pdf)
@@ -37,7 +35,10 @@
 * [Sapiens: A Brief History of Humankind ](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A)
 * [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/)
 * [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
-
+* [The Making of Prince of Persia](https://www.amazon.com/Making-Prince-Persia-Journals-1985-1993-Illustrated-dp-0578627310/dp/0578627310)
+* [BPF Performance Tools](http://www.brendangregg.com/bpf-performance-tools-book.html)
+* [The truthful art](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075)
+* 
 # TO-READ
 ### PAPERS
 * [Auctions and bidding: A guide for computer scientists](http://www.sci.brooklyn.cuny.edu/~parsons/projects/mech-design/publications/bluffers-final.pdf)
