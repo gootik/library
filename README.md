@@ -4,7 +4,7 @@ enjoy reading. You may find them interesting as well.
 # CURRENTLY READING
 
 * [Growth From Microorganisms to Megacities](https://www.amazon.com/Growth-Microorganisms-Megacities-MIT-Press/dp/0262042835)
-* [Dune](https://www.amazon.com/dp/B08B69FGSY)
+* [The Art of Doing Science and Engineering](https://press.stripe.com/the-art-of-doing-science-and-engineering)
 
 # LOG
 ### PAPERS
@@ -41,7 +41,9 @@ enjoy reading. You may find them interesting as well.
 * [The Making of Prince of Persia](https://www.amazon.com/Making-Prince-Persia-Journals-1985-1993-Illustrated-dp-0578627310/dp/0578627310)
 * [BPF Performance Tools](http://www.brendangregg.com/bpf-performance-tools-book.html)
 * [The truthful art](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075)
-* 
+* [Dune](https://www.amazon.com/dp/B08B69FGSY)
+* [The Big Score](https://press.stripe.com/the-big-score)
+
 # TO-READ
 ### PAPERS
 * [Auctions and bidding: A guide for computer scientists](http://www.sci.brooklyn.cuny.edu/~parsons/projects/mech-design/publications/bluffers-final.pdf)
