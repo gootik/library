@@ -16,6 +16,7 @@ enjoy reading. You may find them interesting as well.
 * [Scalable Component Abstractions](http://lampwww.epfl.ch/%7Eodersky/papers/ScalableComponent.pdf)
 * [Twitter Heron](https://dl.acm.org/citation.cfm?id=2742788)
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/linkedin-pacing.pdf)
+* [The Anatomy of a Large-Scale Online Experimentation Platform](https://ieeexplore.ieee.org/abstract/document/8417111)
 
 ### BLOG POSTS
 * [Coroutine Theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
@@ -43,6 +44,7 @@ enjoy reading. You may find them interesting as well.
 * [The truthful art](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075)
 * [Dune](https://www.amazon.com/dp/B08B69FGSY)
 * [The Big Score](https://press.stripe.com/the-big-score)
+* [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.amazon.com/gp/product/1108724264)
 
 # TO-READ
 ### PAPERS
