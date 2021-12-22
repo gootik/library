@@ -65,3 +65,4 @@ enjoy reading. You may find them interesting as well.
 * [Algorithmic Game Theory](http://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Open Music Theory](http://openmusictheory.com/)
+* [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
